@@ -119,7 +119,7 @@ Export structured Scenario-Based Report (PDF/Word).
 Document how each prompting technique contributed to different sections.
 ## Prompt:
 ## Output:
-[Uploading yashex4.pdf…]()
+[yashex4.pdf](https://github.com/user-attachments/files/22571786/yashex4.pdf)
 
 ## Result:
 The experiment shows that AI-powered chatbots in retail perform best when using hybrid prompting strategies. The scenario-based report demonstrates how different prompting techniques can be applied in research, experimentation, and professional documentation, leading to improved customer experience, accuracy, and clarity.
