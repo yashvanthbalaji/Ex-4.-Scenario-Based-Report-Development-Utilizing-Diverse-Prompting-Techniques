@@ -1,4 +1,6 @@
 # Ex-4.-Scenario-Based-Report-Development-Utilizing-Diverse-Prompting-Techniques
+# Name: Balaji A
+# Reg.no: 212223040023
 Objective: The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation.
 ## Aim: 
 To evaluate how diverse AI prompting techniques can be applied to create an effective scenario-based customer service chatbot for a retail environment, and to compare the quality of responses generated through these different prompting methods.
